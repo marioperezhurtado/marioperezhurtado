@@ -13,13 +13,6 @@ Passionate **Frontend Developer**, focused on building **modern applications** a
   <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
 </p>
 
-### BaaS ☁️
-
-<p>
-  <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white'>
-  <img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'/>
-</p>
-
 ### Learning 🌱
 
 <p>
