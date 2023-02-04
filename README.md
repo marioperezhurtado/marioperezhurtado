@@ -1,7 +1,5 @@
 <div align="center">
 
-## Hi there 👋! I'm Mario Pérez 👨‍💻
-
 Passionate **Frontend Developer**, focused on building **modern applications** and **great user experiences**.
 
 ### Tech Stack 💫
