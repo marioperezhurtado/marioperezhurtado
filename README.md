@@ -1,11 +1,13 @@
-<div align="center">
+
+  
+## Hi! 👋 I'm Mario Pérez 👨‍💻
 
 Passionate **Frontend Developer**, focused on building **modern applications** and **great user experiences**.
 
-### Tech Stack 💫
+### Tech Stack 🚀
 
 <p>
-  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
   <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
   <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
@@ -14,8 +16,9 @@ Passionate **Frontend Developer**, focused on building **modern applications** a
 ### Learning 🌱
 
 <p>
-  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
-  <img src='https://img.shields.io/badge/nextjs-black.svg?style=for-the-badge&logo=next.js&logoColor=white'/>
+  <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'/>
+  
 </p>
 
 ### Contact 📫
@@ -31,4 +34,3 @@ Passionate **Frontend Developer**, focused on building **modern applications** a
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-</div>
