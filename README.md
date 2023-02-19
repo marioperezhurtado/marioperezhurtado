@@ -17,7 +17,7 @@ Passionate **Frontend Developer**, focused on building **modern applications** a
 
 <p>
   <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00'/>
+  <img src='https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white'/>
   
 </p>
 
