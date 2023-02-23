@@ -2,7 +2,7 @@
   
 ## Hi! 👋 I'm Mario Pérez 👨‍💻
 
-Passionate **Frontend Developer**, focused on building **modern applications** and **great user experiences**.
+Passionate **Web Developer**, focused on building **modern applications** and **great user experiences**.
 
 ### Tech Stack 🚀
 
